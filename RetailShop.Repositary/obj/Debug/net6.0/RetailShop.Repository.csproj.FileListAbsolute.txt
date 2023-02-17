@@ -1,0 +1,14 @@
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\bin\Debug\net6.0\RetailShop.Repository.deps.json
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\bin\Debug\net6.0\RetailShop.Repository.runtimeconfig.json
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\bin\Debug\net6.0\RetailShop.Repository.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\bin\Debug\net6.0\RetailShop.Repository.pdb
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\RetailShop.Repository.csproj.AssemblyReference.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\RetailShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\RetailShop.Repository.AssemblyInfoInputs.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\RetailShop.Repository.AssemblyInfo.cs
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\RetailShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\RetailShop.Repository.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\refint\RetailShop.Repository.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\RetailShop.Repository.pdb
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\RetailShop.Repository.genruntimeconfig.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\RetailShop.Repositary\obj\Debug\net6.0\ref\RetailShop.Repository.dll

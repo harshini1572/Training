@@ -1,0 +1,44 @@
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.csproj.AssemblyReference.cache
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.AssemblyInfoInputs.cache
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.AssemblyInfo.cs
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.csproj.CoreCompileInputs.cache
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\Ms Test.deps.json
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\Ms Test.dll
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\Ms Test.pdb
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\RetailShop.Models.dll
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\RetailShop.Models.pdb
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.csproj.CopyComplete
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.dll
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\refint\Ms Test.dll
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.pdb
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\ref\Ms Test.dll
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\RetailShop.Repositary.dll
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\RetailShop.Repositary.pdb
+D:\dinesh\RetailShop\Ms Test\bin\Debug\net6.0\Ms Test.runtimeconfig.json
+D:\dinesh\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.genruntimeconfig.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\Ms Test.deps.json
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\Ms Test.runtimeconfig.json
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\Ms Test.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\Ms Test.pdb
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\RetailShop.Models.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\RetailShop.Repositary.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\RetailShop.Models.pdb
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\RetailShop.Repositary.pdb
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.csproj.AssemblyReference.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.AssemblyInfoInputs.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.AssemblyInfo.cs
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.csproj.CoreCompileInputs.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.csproj.CopyComplete
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\refint\Ms Test.dll
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.pdb
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\Ms Test.genruntimeconfig.cache
+C:\Users\KallurHarshini\Downloads\RetailShop\RetailShop\Ms Test\obj\Debug\net6.0\ref\Ms Test.dll
